@@ -1,0 +1,12 @@
+C:\Tan\Tan_BaiTapLTTMTW\DoAn\DoAn\DoAn.DAL\bin\Debug\DoAn.DAL.dll.config
+C:\Tan\Tan_BaiTapLTTMTW\DoAn\DoAn\DoAn.DAL\bin\Debug\DoAn.DAL.dll
+C:\Tan\Tan_BaiTapLTTMTW\DoAn\DoAn\DoAn.DAL\bin\Debug\DoAn.DAL.pdb
+C:\Tan\Tan_BaiTapLTTMTW\DoAn\DoAn\DoAn.DAL\bin\Debug\EntityFramework.dll
+C:\Tan\Tan_BaiTapLTTMTW\DoAn\DoAn\DoAn.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Tan\Tan_BaiTapLTTMTW\DoAn\DoAn\DoAn.DAL\bin\Debug\EntityFramework.xml
+C:\Tan\Tan_BaiTapLTTMTW\DoAn\DoAn\DoAn.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Tan\Tan_BaiTapLTTMTW\DoAn\DoAn\DoAn.DAL\obj\Debug\DoAn.DAL.csproj.AssemblyReference.cache
+C:\Tan\Tan_BaiTapLTTMTW\DoAn\DoAn\DoAn.DAL\obj\Debug\DoAn.DAL.csproj.CoreCompileInputs.cache
+C:\Tan\Tan_BaiTapLTTMTW\DoAn\DoAn\DoAn.DAL\obj\Debug\DoAn.DAL.csproj.Up2Date
+C:\Tan\Tan_BaiTapLTTMTW\DoAn\DoAn\DoAn.DAL\obj\Debug\DoAn.DAL.dll
+C:\Tan\Tan_BaiTapLTTMTW\DoAn\DoAn\DoAn.DAL\obj\Debug\DoAn.DAL.pdb
